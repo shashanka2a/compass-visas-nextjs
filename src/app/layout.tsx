@@ -12,6 +12,11 @@ export const metadata: Metadata = {
   description: "Professional immigration and visa services to help you navigate your journey to a new country. Expert guidance for all visa types and immigration processes.",
   keywords: "immigration, visa services, visa consultation, immigration lawyer, visa application, immigration help",
   authors: [{ name: "Compass Visas" }],
+  icons: {
+    icon: "/compass-icon.svg",
+    shortcut: "/compass-icon.svg",
+    apple: "/compass-icon.svg",
+  },
   openGraph: {
     title: "Compass Visas - Expert Immigration Services",
     description: "Professional immigration and visa services to help you navigate your journey to a new country.",

@@ -47,8 +47,8 @@ export function HeroSection() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1603033839467-f89ec42f107b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBtb2JpbGl0eSUyMGRpZ2l0YWwlMjBub21hZCUyMHZpc2F8ZW58MXx8fHwxNzU4ODMxMDU4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Global mobility and visa services"
+                src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXNzcG9ydCUyMGRvY3VtZW50cyUyMHRyYXZlbCUyMmltbWlncmF0aW9ufGVufDF8fHwxNzU4ODMxMDU4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                alt="Professional visa and immigration services"
                 className="w-full h-[500px] object-cover"
                 width={1080}
                 height={500}
